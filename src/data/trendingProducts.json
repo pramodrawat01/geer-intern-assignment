@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Gold Necklace Set",
+    "price": "$199",
+    "image": "public/assets/trending01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kundan Earrings",
+    "price": "$129",
+    "image": "public/assets/trending06.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pearl Pendant",
+    "price": "$249",
+    "image": "public/assets/trending09.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Diamond Stud Earrings",
+    "price": "$149",
+    "image": "public/assets/trending04.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Rose Gold Choker",
+    "price": "$599",
+    "image": "public/assets/trending05.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Antique Jhumkas",
+    "price": "$89",
+    "image": "public/assets/trending02.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Silver Hoop Earrings",
+    "price": "$59",
+    "image": "public/assets/trending07.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Stone Necklace",
+    "price": "$99",
+    "image": "public/assets/trending08.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Emerald Drop Earrings",
+    "price": "$199",
+    "image": "public/assets/trending03.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Temple Jewellery Set",
+    "price": "$69",
+    "image": "public/assets/trending10.jpg"
+  }
+]

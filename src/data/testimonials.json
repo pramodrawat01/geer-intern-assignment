@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "role": "Fashion Blogger",
+    "rating": 4.8,
+    "image": "public/assets/testimonial01.jpg",
+    "quote": "Absolutely love the collection! Quality and design are top-notch."
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "role": "Content Creator",
+    "rating": 4.6,
+    "image": "public/assets/testimonial02.jpg",
+    "quote": "Fast delivery and stunning packaging. Highly recommended!"
+  },
+  {
+    "id": 3,
+    "name": "Anjali Mehra",
+    "role": "Entrepreneur",
+    "rating": 4.9,
+    "image": "public/assets/testimonial03.jpg",
+    "quote": "Elegant designs and great customer service. Will shop again!"
+  },
+  {
+    "id": 4,
+    "name": "Vikram Singh",
+    "role": "Tech Reviewer",
+    "rating": 4.5,
+    "image": "public/assets/testimonial01.jpg",
+    "quote": "Loved how easy it was to order and the product was amazing."
+  },
+  {
+    "id": 5,
+    "name": "Meena Joshi",
+    "role": "Stylist",
+    "rating": 4.7,
+    "image": "public/assets/testimonial02.jpg",
+    "quote": "Fabulous style! My friends also loved it!"
+  },
+  {
+    "id": 6,
+    "name": "Aman Thakur",
+    "role": "Artist",
+    "rating": 4.4,
+    "image": "public/assets/testimonial03.jpg",
+    "quote": "Packaging, quality, and service were all excellent."
+  },
+  {
+    "id": 7,
+    "name": "Sanya Kapoor",
+    "role": "Model",
+    "rating": 4.9,
+    "image": "public/assets/testimonial01.jpg",
+    "quote": "This brand is now my go-to place for all occasions!"
+  },
+  {
+    "id": 8,
+    "name": "Ravi Desai",
+    "role": "Photographer",
+    "rating": 4.3,
+    "image": "public/assets/testimonial02.jpg",
+    "quote": "Loved every part of the experience. Must try again!"
+  }
+]
